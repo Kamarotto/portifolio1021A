@@ -6,7 +6,7 @@
   }
   header{
     justify-content: space-between;
-    background-color: rgb(250, 161, 206);
+    background-color: #1450A3;
     padding:40px;
     display: flex;
     align-items: center;
@@ -20,7 +20,7 @@
     padding: 15px;
     text-decoration: none;
     color: white;
-    border: 1px solid hotpink;
+    border: 1px solid #279EFF;
   }
   .botoes{
     transform: translate(-50%,-50%);
@@ -32,13 +32,13 @@
       font-size: 14px;
       font-family: "montserrat";
       text-decoration: none;
-      border: 2px solid hotpink;
+      border: 2px solid #279EFF;
       text-transform: uppercase;
       overflow: hidden;
       transition: 1s all ease;
   }
   .btn::before{
-    background: rgb(204, 88, 169);
+    background: #337CCF;
     content: "";
     position: absolute;
     top: 50%;

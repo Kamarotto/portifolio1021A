@@ -1,0 +1,25 @@
+.conteudo-content{
+    min-width: 200px;
+    min-height: 510px;
+    background-color: #252B48;
+}
+
+.imagens{
+    display: flex;
+    justify-content: center;
+}
+
+.img-conteudo{
+    width: 500px;
+    height: 55vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h4{
+    max-width: 300px;
+    color: #279EFF;
+    font-family: sans-serif;
+    display: flex;
+    margin-top: 180px;
+}
